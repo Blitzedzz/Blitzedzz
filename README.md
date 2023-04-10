@@ -6,7 +6,7 @@
      </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ignshifts&style=flat-square&color=grey" alt="ignshifts" /> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1095003044799856690/1095004497534791741/channels4_profile.jpg" alt="BLITZEDZZ" /> </p>
 
 
 <p align="center">
