@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <a href="https://discord.com/users/994717305542021244">
-    <img src="https://discord.c99.nl/widget/theme-4/994717305542021244.png" alt="ignshifts"/>
+  <a href="https://discord.com/users/1025517670113742898">
+    <img src="https://discord.c99.nl/widget/theme-4/1025517670113742898.png" alt="ignshifts"/>
      </a>
 </p>
 
