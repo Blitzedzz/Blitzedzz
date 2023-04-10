@@ -6,9 +6,6 @@
      </a>
 </p>
 
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/1095003044799856690/1095004497534791741/channels4_profile.jpg" alt="BLITZEDZZ" /> </p>
-
-
 <p align="center">
   <tr>
             <td align="center" style="padding=0;width=50%;">
