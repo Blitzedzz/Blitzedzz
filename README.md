@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/1025517670113742898">
-    <img src="https://discord.c99.nl/widget/theme-1/1025517670113742898.png" alt="ignshifts"/>
      </a>
 </p>
 
